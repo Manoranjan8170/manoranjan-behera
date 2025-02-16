@@ -11,8 +11,8 @@
 2. *[E-Commerce Website](GitHub Repo Link)* - A basic shopping site using Java & MySQL.  
 
 ### 📫 Connect With Me  
-- LinkedIn: [Mr.](https://www.linkedin.com/in/manoranjan-behera-39a9a5293)  
+- LinkedIn: [Mr](https://www.linkedin.com/in/manoranjan-behera-39a9a5293)  
 - GitHub: [manoranjan-behera](https://github.com/Manoranjan8170)  
-- Email:[Mrb](manoranjanbehera782@gmail.com)  
+- Email: [MRB](manoranjanbehera782@gmail.com)  
 
 ---
