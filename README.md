@@ -12,7 +12,7 @@
 
 ### 📫 Connect With Me  
 - LinkedIn: [Mr.](https://www.linkedin.com/in/manoranjan-behera-39a9a5293)  
-- GitHub: [manoranjan-behera](https://github.com/manoranjan-behera)  
+- GitHub: [manoranjan-behera](https://github.com/Manoranjan8170)  
 - Email:[Mrb](manoranjanbehera782@gmail.com)  
 
 ---
