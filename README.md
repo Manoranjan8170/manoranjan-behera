@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Manoranjan Behera!  
 
 ## 🚀 About Me  
-I'm an MCA 1st-year student at Atria Institute of Technology, Bangalore, learning to code from scratch. Coming from a commerce background, I'm diving deep into Full Stack Java Development and aiming to become industry-ready by May 2026.  
+I'm a MCA 1st-year student at Atria Institute of Technology, Bangalore, learning to code from scratch. Coming from a commerce background, I'm diving deep into Full Stack Java Development and aiming to become industry-ready by May 2026.  
 
 ### 🔧 Tech Stack & Tools I Use:
 - 🌐 Frontend: HTML, CSS, JavaScript  
@@ -36,7 +36,7 @@ I'm an MCA 1st-year student at Atria Institute of Technology, Bangalore, learnin
 - Exploring open-source contributions  
 
 ### 📫 Connect with Me:
-- LinkedIn: [https://www.linkedin.com/in/manoranjan-behera-39a9a5293] 
-- GitHub: [https://manoranjan8170.github.io/manoranjan-behera/]  
+- LinkedIn: [Manoranjan](https://www.linkedin.com/in/manoranjan-behera-39a9a5293) 
+- GitHub: [MRB](https://manoranjan8170.github.io/manoranjan-behera/)  
 
 Let’s connect and grow together! 🚀
