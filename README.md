@@ -7,8 +7,8 @@
 - 🌐 Tech Stack (Learning): Java | Spring Boot | MySQL | React.js | Git  
 
 ### 🏆 Projects  
-1. *[To-Do App] - A simple task manager using React.js & Spring Boot.  
-2. *[E-Commerce Website] - A basic shopping site using Java & MySQL.  
+1. To-Do App - A simple task manager using React.js & Spring Boot.  
+2. E-Commerce Website - A basic shopping site using Java & MySQL.  
 
 #### 📫 Connect With Me  
 - LinkedIn: [Mr](https://www.linkedin.com/in/manoranjan-behera-39a9a5293)  
