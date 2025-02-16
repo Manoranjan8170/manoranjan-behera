@@ -21,10 +21,6 @@ I'm a MCA 1st-year student at Atria Institute of Technology, Bangalore, learning
 - Database Management Systems  
 - Math for Computer Science  
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/The_Art_of_Computer_Programming.jpg" width="50%">
-</p>
-
 ### 🏆 Goals for 2025-26:
 ✅ Build real-world projects  
 ✅ Improve problem-solving & DSA skills  
@@ -37,6 +33,7 @@ I'm a MCA 1st-year student at Atria Institute of Technology, Bangalore, learning
 
 ### 📫 Connect with Me:
 - LinkedIn: [Manoranjan](https://www.linkedin.com/in/manoranjan-behera-39a9a5293) 
-- GitHub: [MRB](https://manoranjan8170.github.io/manoranjan-behera/)  
+- GitHub: [MRB](https://manoranjan8170.github.io/manoranjan-behera/)
+- Email: [Mrb](manoranjanbehera782@gmail.com)
 
 Let’s connect and grow together! 🚀
