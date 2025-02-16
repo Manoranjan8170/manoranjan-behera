@@ -1,18 +1,42 @@
-# Hi, I'm Manoranjan Behera 👋  
-🚀 Aspiring Full Stack Java Developer | MCA Student  
+# 👋 Hi, I'm Manoranjan Behera!  
 
-## 🔹 About Me  
-- 🎓 MCA Student at Atria Institute of Technology, Bangalore  
-- 💻 Learning Full Stack Java Development  
-- 🌐 Tech Stack (Learning): Java | Spring Boot | MySQL | React.js | Git  
+## 🚀 About Me  
+I'm an MCA 1st-year student at Atria Institute of Technology, Bangalore, learning to code from scratch. Coming from a commerce background, I'm diving deep into Full Stack Java Development and aiming to become industry-ready by May 2026.  
 
-### 🏆 Projects  
-1. To-Do App - A simple task manager using React.js & Spring Boot.  
-2. E-Commerce Website - A basic shopping site using Java & MySQL.  
+### 🔧 Tech Stack & Tools I Use:
+- 🌐 Frontend: HTML, CSS, JavaScript  
+- 🛢 Database: MySQL  
+- 💻 OS: Linux (Ubuntu, Kali, Red Hat)  
+- 🖥 Tools: VS Code, Terminal, Text Editor  
 
-#### 📫 Connect With Me  
-- LinkedIn: [Mr](https://www.linkedin.com/in/manoranjan-behera-39a9a5293)  
-- GitHub: [manoranjan-behera](https://github.com/manoranjan-behera)  
-- Email: [MRB](manoranjanbehera782@gmail.com)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50%">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50%">
+</p>
 
----
+### 📚 What I’m Currently Learning:
+- Data Structures & Algorithms  
+- Operating System Concepts  
+- Database Management Systems  
+- Math for Computer Science  
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/The_Art_of_Computer_Programming.jpg" width="50%">
+</p>
+
+### 🏆 Goals for 2025-26:
+✅ Build real-world projects  
+✅ Improve problem-solving & DSA skills  
+✅ Create a strong GitHub portfolio  
+✅ Crack campus & off-campus job interviews  
+
+### 🌱 Projects & Contributions:
+- I’m working on small projects to strengthen my skills (stay tuned!)  
+- Exploring open-source contributions  
+
+### 📫 Connect with Me:
+- LinkedIn: [https://www.linkedin.com/in/manoranjan-behera-39a9a5293] 
+- GitHub: [https://manoranjan8170.github.io/manoranjan-behera/]  
+
+Let’s connect and grow together! 🚀
